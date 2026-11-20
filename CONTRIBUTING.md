@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://shieldcn.dev/header/glow.svg?title=Contribuer+%C3%A0+Litenote&amp;subtitle=D%C3%A9velopper+et+tester+le+SDK+Litenote&amp;logo=lu%3AHandshake&amp;mode=light&amp;theme=blue&amp;align=left" />
-    <img alt="Contribuer à Litenote — Développer et tester le SDK Litenote" src="https://shieldcn.dev/header/glow.svg?title=Contribuer+%C3%A0+Litenote&amp;subtitle=D%C3%A9velopper+et+tester+le+SDK+Litenote&amp;logo=lu%3AHandshake&amp;mode=dark&amp;theme=blue&amp;align=left" />
+    <img alt="Contribuer à Litenote — Développer et tester le SDK Litenote" src="https://shieldcn.dev/header/glow.svg?title=Contribuer+%C3%A0+Litenote&amp;subtitle=D%C3%A9velopper+et+tester+le+SDK+Litenote&amp;logo=lu%3AHandshake&amp;mode=dark&amp;theme=green&amp;align=left" />
   </picture>
 </p>
 
