@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://shieldcn.dev/header/glow.svg?title=Politique+de+s%C3%A9curit%C3%A9&amp;subtitle=Signaler+une+vuln%C3%A9rabilit%C3%A9+dans+Litenote&amp;logo=lu%3ALock&amp;mode=light&amp;theme=blue&amp;align=left" />
+    <source media="(prefers-color-scheme: light)" srcset="https://shieldcn.dev/header/glow.svg?title=S%C3%A9curit%C3%A9&amp;subtitle=Signaler+une+vuln%C3%A9rabilit%C3%A9+dans+Litenote&amp;logo=lu%3ALock&amp;mode=light&amp;theme=blue&amp;align=left" />
     <img alt="Sécurité — Signaler une vulnérabilité dans Litenote" src="https://shieldcn.dev/header/glow.svg?title=Politique+de+s%C3%A9curit%C3%A9&amp;subtitle=Signaler+une+vuln%C3%A9rabilit%C3%A9+dans+Litenote&amp;logo=lu%3ALock&amp;mode=dark&amp;theme=green&amp;align=left" />
   </picture>
 </p>
